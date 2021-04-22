@@ -1,5 +1,5 @@
 ## RishaBot
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
+BOT WHATSAPP By jeremi/risha
 
 
 
